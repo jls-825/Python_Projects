@@ -1,2 +1,2 @@
 # Python_Projects
-Some of my python projects created for class assignments
+Projects created in Python for various computer sience class assignments
